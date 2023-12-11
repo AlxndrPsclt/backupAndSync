@@ -1,0 +1,5 @@
+ipfs:
+  node_add_address: "http://localhost:5001"
+  node_get_address: "http://127.0.0.1:8080"
+# You can add more configuration options here
+
